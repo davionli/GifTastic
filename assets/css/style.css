@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://c.wallhere.com/photos/47/3d/1920x1200_px_Pikachu_pokemon-824348.jpg!d");
+    background-size: 100%;
+}
+.imgDiv {
+    margin-left: 10px;
+}
+#animalGifsContainer {
+    margin-top: 50px;
+}
+.animalBtn {
+    margin-left: 10px;
+}
+.controlPanel {
+    margin-top: 10px;
+}
+h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 60px;
+}
